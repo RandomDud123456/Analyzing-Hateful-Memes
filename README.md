@@ -29,6 +29,10 @@
 
 ## 12) test_impainting.py: This code impaints an image.
 
+## 13) Paper_Report.pdf: This file is the report of the paper reading task.
+
+## 12) Analyzing_hateful_memes__Report.pdf: This file explains the way I approached and implemented the tasks.
+
 # Assumptions:
 
 ## 1) I am not submitting the images/memes directory which I used for training/testing.
