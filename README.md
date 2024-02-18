@@ -27,9 +27,11 @@ It does the same thing for text in the json files.
 
 11) total_model.ipynb: This code predicts whether a meme is hateful or not based on the objects detected in it and also implements a multimodal predication using both text and image for analysis.
 
+12) test_impainting.py: This code impaints an image.
+
 # Assumptions:
 
 1) I am not submitting the images/memes directory which I used for training/testing.
-2) For minimizing the impact of caption analysis, I have tried to use inpainting to fill out the caption with the surrounding parts of the image. But I couldn't run the model because it required CUDA drivers and GPU and my laptop doesn't have those, and its to big to run on google collab. Here is the link of the github repo for the model:
+
 
 
