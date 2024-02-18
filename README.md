@@ -2,8 +2,8 @@
 
 1) add_file.py: This python script divides the images in the dataset into 2 folders based on the json file for train and test, in the new directory dataset_hate:
 
-a) 1 folder contains the hateful memes
-b) 1 folder contains the non-hateful memes
+. 1 folder contains the hateful memes
+. 1 folder contains the non-hateful memes
 
 It does the same thing for text in the json files.
 
