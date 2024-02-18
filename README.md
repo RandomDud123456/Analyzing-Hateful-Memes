@@ -31,7 +31,7 @@
 
 ## 13) Paper_Report.pdf: This file is the report of the paper reading task.
 
-## 12) Analyzing_hateful_memes__Report.pdf: This file explains the way I approached and implemented the tasks.
+## 14) Analyzing_hateful_memes__Report.pdf: This file explains the way I approached and implemented the tasks.
 
 # Assumptions:
 
