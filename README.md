@@ -37,5 +37,11 @@
 
 ## 1) I am not submitting the images/memes directory which I used for training/testing.
 
+# Resources referred to:
+
+## https://medium.datadriveninvestor.com/memes-detection-android-app-using-deep-learning-d2c65347e6f3
+## https://medium.com/codex/hateful-meme-detection-3c5a47097a08
+## https://docs.ultralytics.com/
+## https://www.analyticsvidhya.com/blog/2021/12/fine-tune-bert-model-for-sentiment-analysis-in-google-colab/
 
 
